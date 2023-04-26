@@ -1,0 +1,33 @@
+body{
+    background: rgb(120, 40, 31)
+
+}
+
+#nav-link{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#div2{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    flex-direction: row
+}
+
+#container{
+    width: 30%;
+}
+.user-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row
+}
+
+.button{
+    width: 70px;
+    height: 25px; 
+    margin-top: 11.5px
+}
+
